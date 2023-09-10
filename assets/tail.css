@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-button: #071601;
+    --color-bg: rgb(239, 239, 239);
+    --button-text: #fff;
+}
